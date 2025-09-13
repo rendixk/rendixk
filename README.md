@@ -70,4 +70,4 @@ Here are some ideas to get you started:
 <h2 align = "left">My Stats</h2>
 
 
-[![Rendixk's GitHub stats](https://github-readme-stats.vercel.app/api?username=rendixk)]
+[![Rendixk's GitHub stats](https://github-readme-stats.vercel.app/api?username=rendixk)

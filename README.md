@@ -55,18 +55,6 @@ Here are some ideas to get you started:
 
 ###
 
-<h2 align="left">My Social Medias</h2>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-</div>
-
-###
-
 <h2 align = "left">My Stats</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rendixk&show_icons=true&theme=transparent)

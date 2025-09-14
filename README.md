@@ -54,7 +54,3 @@ Here are some ideas to get you started:
 </div>
 
 ###
-
-<h2 align = "left">My Stats</h2>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rendixk&show_icons=true&theme=transparent)

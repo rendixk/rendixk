@@ -59,8 +59,16 @@ Here are some ideas to get you started:
 
 ###
 
+<h2>What programming languges I use recently</h2>
+
+###
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rendixk&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
+###
+
 <h2>My Stats</h2>
 
 ###
 
-![Rendi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rendixk&show_icons=true&theme=gradient)
+![Rendi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rendixk&show_icons=true&theme=Gradient)

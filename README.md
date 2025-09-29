@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 ###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rendixk&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rendixk&layout=compact)
 
 ###
 
@@ -71,4 +71,4 @@ Here are some ideas to get you started:
 
 ###
 
-![Rendi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rendixk&show_icons=true&theme=Gradient)
+![Rendi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rendixk&show_icons=true&theme=ambient_gradient)

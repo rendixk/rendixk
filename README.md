@@ -59,6 +59,8 @@ Here are some ideas to get you started:
 
 ###
 
-My Stats
+<h2>My Stats</h2>
 
-![Rendi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rendixk&show_icons=true&theme=onedark)
+###
+
+![Rendi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rendixk&show_icons=true&theme=gradient)

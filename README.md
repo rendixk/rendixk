@@ -59,4 +59,4 @@ Here are some ideas to get you started:
 
 My Stats
 
-![Rendi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rendixk&show_icons=true&theme=transparent)
+![Rendi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rendixk&show_icons=true&theme=onedark)

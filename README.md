@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 <h1 align="left">Hey There 👋 What's up?</h1>
 
+<img width="1560" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/74937b44-60fd-488c-8f4f-6e17cfa5e4c6" />
+
 ###
 
 <h4 align="left">My name is Rendi and I'm a Backend Developer, from Indonesia</h4>

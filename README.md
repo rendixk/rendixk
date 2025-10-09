@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">👨🏻‍💻Creating bugs since I Was Internship<br>📚 I'm currently learning about backend environment<br>🎯 Goals: Be A Full Time Coder<br>🎲 Fun fact: Sleepy Man <br> ✨I Need "Warmth"</p>
+<p align="left">👨🏻‍💻Creating bugs since I Was Internship<br>📚 I'm currently learning about Backend Environment<br>🎯 Goals: Be A Full Time Coder<br>🎲 Fun fact: Sleepy Man <br> ✨ I Need "Warmth"</p>
 
 ###
 

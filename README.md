@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="left">My name is Rendi and I'm a Backend Developer, from Indonesia</h3>
+<h3 align="left">My name is Rendi, I'm a Coder from Indonesia</h3>
 
 ###
 
